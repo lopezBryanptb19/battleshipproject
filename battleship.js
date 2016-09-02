@@ -9,7 +9,7 @@ var gameBoardContainer = document.getElementById("gameboard");
 // you can use this to convert your letters into numbers for use
 // with the 2D array
 var letterConversion = {
-	"A" : 0,
+	"A": 0,
 	"B": 1,
 	"C": 2,
 	"D": 3,
